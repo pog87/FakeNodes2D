@@ -13,7 +13,7 @@ To use this work in any scientific report or publication, please insert in refer
 
 
 
-![fig1](images/Runge2D.png)
+![fig1](images/Runge2D.png =250x)
 
 ## What are Fake Nodes
 
@@ -21,4 +21,4 @@ Fake Nodes is a novel approach to numerical interpolation that aims to achieve a
 
 Check out out other repos [FakeNodes](https://github.com/pog87/FakeNodes) and [FakeQuadrature](https://github.com/pog87/FakeQuadrature).
 
-![fig1](images/Runge2D-Sliced.png)
+![fig1](images/Runge2D-Sliced.png =250x)
