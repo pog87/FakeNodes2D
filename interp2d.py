@@ -23,7 +23,7 @@ def wamfit(deg, wam, pts, fval):
     Q, R1, R2 = wamdop(deg, wam, rect)
     DOP = wamdopeval(deg, R1, R2, pts, rect)
     cfs = np.matmul(Q.T, fval)
-    lsp = np.matmul(DOP, cfs)
+    lsp = np.dot(DOP, cfs.T)
     return np.array(cfs), np.array(lsp)
 
 
