@@ -7,7 +7,7 @@ Bivariate interpolation on Fake Nodes with examples.
 To use this work in any scientific report or publication, please insert in references:
 
  * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Polynomial interpolation via mapped bases without resampling* [link](https://www.sciencedirect.com/science/article/pii/S0377042719303449), JCAM (2020).
- * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Multivariate approximation at fake nodes* [link](), preprint.
+ * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Multivariate approximation at fake nodes* [link](https://www.researchgate.net/publication/341459120_Multivariate_approximation_at_fake_nodes), preprint.
  * M. Caliari, S. De Marchi, A. Sommariva and M. Vianello, *Padua2DM: fast interpolation and cubature at the Padua points in Matlab/Octave*, Numer. Algorithms 56 (2011)
  * L. Bos, S. De Marchi, A. Sommariva, M. Vianello, *Weakly Admissible Meshes and Discrete Extremal Sets*, Numerical Mathematics: Theory, Methods and Applications, 4(1), 1-12 (2011)
 
