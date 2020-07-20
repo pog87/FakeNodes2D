@@ -17,7 +17,7 @@ To use this work in any scientific report or publication, please insert in refer
 
 ## What are Fake Nodes
 
-Fake Nodes is a novel approach to numerical interpolation that aims to achieve a better interpolation without having to get new samples. You can use your samples as they were taken at better/more representative nodes, cheating with the interpolation domain by applying a map.
+Fake Nodes is a novel approach to numerical interpolation that aims to achieve a better interpolation without having to get new samples. You can use your samples as they were taken at better/more representative nodes, cheating with the interpolation domain by applying a map. 
 
 Check out out other repos [FakeNodes](https://github.com/pog87/FakeNodes) and [FakeQuadrature](https://github.com/pog87/FakeQuadrature).
 
